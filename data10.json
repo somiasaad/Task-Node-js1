@@ -1,0 +1,212 @@
+[
+    {
+        "id": 2,
+        "fname": "eslam",
+        "lname": "ali",
+        "city": "qai",
+        "age": 22
+    },
+    {
+        "id": 3,
+        "fname": "gogo",
+        "lname": "omer",
+        "city": "maser",
+        "age": 20
+    },
+    {
+        "id": 4,
+        "fname": "nada",
+        "lname": "sayed",
+        "city": "maser",
+        "age": 24
+    },
+    {
+        "id": 4,
+        "fname": "nada",
+        "lname": "sayed",
+        "city": "maser",
+        "age": 24
+    },
+    {
+        "id": 5,
+        "fname": "nada",
+        "lname": "sayed",
+        "city": "maser",
+        "age": 24
+    },
+    {
+        "id": 22,
+        "fname": "doha",
+        "lname": "saadsayed",
+        "city": "cairoo",
+        "age": 22,
+        "allsubjects": [
+            {
+                "subj1": 80,
+                "subj2": 80,
+                "subj3": 50,
+                "subj4": 70,
+                "subj5": 60,
+                "subj6": 90
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "fname": "nor",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubjects": [
+            {
+                "subj1": 80,
+                "subj2": 70,
+                "subj3": 50,
+                "subj4": 70,
+                "subj5": 60,
+                "subj6": 90
+            }
+        ],
+        "sum": {
+            "subj1": 80,
+            "subj2": 70,
+            "subj3": 50,
+            "subj4": 70,
+            "subj5": 60,
+            "subj6": 90
+        },
+        "avg": null
+    },
+    {
+        "id": 25,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubjects": [
+            80,
+            70,
+            50,
+            70,
+            60,
+            90
+        ],
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 26,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubjects": [
+            80,
+            70,
+            50,
+            70,
+            60,
+            90
+        ],
+        "subj1": 80,
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 16,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubjects": [
+            80,
+            70,
+            50,
+            70,
+            60,
+            90
+        ],
+        "subj1": 80,
+        "subj2": 70,
+        "subj3": 50,
+        "subj4": 70,
+        "subj5": 60,
+        "subj6": 90,
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 15,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "subj1": 80,
+        "subj2": 70,
+        "subj3": 50,
+        "subj4": 70,
+        "subj5": 60,
+        "subj6": 90,
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 19,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "subj1": 80,
+        "subj2": 70,
+        "subj3": 50,
+        "subj4": 70,
+        "subj5": 60,
+        "subj6": 90,
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 9,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubject": [
+            {
+                "subj1": 80,
+                "subj2": 70,
+                "subj3": 50,
+                "subj4": 70,
+                "subj5": 60,
+                "subj6": 90
+            }
+        ],
+        "subj1": 80,
+        "subj2": 70,
+        "subj3": 50,
+        "subj4": 70,
+        "subj5": 60,
+        "subj6": 90,
+        "sum": 420,
+        "avg": 70
+    },
+    {
+        "id": 28,
+        "fname": "nora",
+        "lname": "saadsaed",
+        "city": "cairro",
+        "age": 23,
+        "allsubject": [
+            {
+                "subj1": 80,
+                "subj2": 70,
+                "subj3": 50,
+                "subj4": 70,
+                "subj5": 60,
+                "subj6": 90
+            }
+        ],
+        "sum": 420,
+        "avg": 70
+    }
+]
